@@ -1,8 +1,10 @@
+import 'package:cupertino_store/login_page.dart';
 import 'package:cupertino_store/product_list_tab.dart';
 import 'package:cupertino_store/search_tab.dart';
 import 'package:cupertino_store/shopping_cart_tab.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
+import 'login_page.dart';
 
 class CupertinoStoreApp extends StatelessWidget {
   const CupertinoStoreApp({Key? key}) : super(key: key);
@@ -16,7 +18,7 @@ class CupertinoStoreApp extends StatelessWidget {
 
     return const CupertinoApp(
       theme: CupertinoThemeData(brightness: Brightness.light),
-      home: CupertinoStoreHomePage(),
+      home: LoginPage(),
     );
   }
 }

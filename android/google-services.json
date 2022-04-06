@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "213926025302",
+    "project_id": "clubclothesstore",
+    "storage_bucket": "clubclothesstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213926025302:android:250e77de40b735248203f7",
+        "android_client_info": {
+          "package_name": "com.example.cupertino_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213926025302-s8bos8msjmpbkng4bk97avc3qfget0r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ4-_LqxdJh7_j0fqXXQHewwa7injyeUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213926025302-s8bos8msjmpbkng4bk97avc3qfget0r0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "213926025302-61cqkgp53htpp7b0bc7f5266c10s26nk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cupertinoStore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
